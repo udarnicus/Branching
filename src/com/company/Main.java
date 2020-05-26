@@ -6,4 +6,12 @@ public class Main {
 	    System.out.println("asdfas");
 	    System.out.println("asdfas");
     }
+
+    public void importBooks(){
+
+    }
+    /**/
+    public void importBookcopys(){
+
+    }
 }
